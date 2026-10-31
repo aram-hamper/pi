@@ -1,0 +1,5 @@
+There once was a harness called Pi,
+With agents that code on the fly,
+    Extensions galore,
+    Multi-provider core,
+Minimal, yet reaching the sky.
